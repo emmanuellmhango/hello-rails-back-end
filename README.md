@@ -22,7 +22,7 @@
 
 # Hello-Rails-React <a name="hello-rails-react"></a>
 
-**Hello Rails React** is a web application that displays a random greeting message on screen. It uses **Rails** for back-end and **React** for front-end and. This repo is for backend. You can access the front end [HERE](https://github.com/emmanuellmhango/)
+**Hello Rails React** is a web application that displays a random greeting message on screen. It uses **Rails** for back-end and **React** for front-end and. This repo is for backend. You can access the front end [HERE](https://github.com/emmanuellmhango/hello-react-front-end/)
 
 ## 🛠 Built With <a name="built-with"></a>
 
