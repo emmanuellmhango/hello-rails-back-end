@@ -12,7 +12,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage ](#usage-)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -70,7 +69,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:Nelitaa/hello-rails-react.git
+  git clone https://github.com/emmanuellmhango/hello-rails-back-end.git
 ```
 
 ### Install
@@ -79,7 +78,6 @@ Install the project dependencies with:
 
 ```
   - bundle install
-  - npm install
 ```
 
 ### Usage <a name="usage"></a>
